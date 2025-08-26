@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+<<<<<<< HEAD
+
+:root {
+    --cor-principal:#ffc5eb;
+    --cor-escuro:#f772cf;
+    --cor-segundaria:#ddd2ff;
+    --cor-azulclaro:#8ee6ff;
+    --cor-ciano:#00f9ff;
+    --cor-branco:#ffffff;
+    --cor-preto:#000000;
+}
+
+#body {
+    background-color: var(--cor-azulclaro);
+}
+
+#rodape {
+    background-color: var(--cor-escura);
+    color: var(--cor-branco);
+}
+
+#ancora {
+    text-decoration: none;
+    color: var(--cor-branco);
+    font-size: 20px;
+    transition:  color 0.3s ease;
+}
+#ancora:hover {
+    color: var(--cor-principal);
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+:root {
+    --cor-principal:#ffc5eb;
+    --cor-escuro:#f772cf;
+    --cor-segundaria:#ddd2ff;
+    --cor-azulclaro:#8ee6ff;
+    --cor-ciano:#00f9ff;
+    --cor-branco:#ffffff;
+    --cor-preto:#000000;
+}
+}
